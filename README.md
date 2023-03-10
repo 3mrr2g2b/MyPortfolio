@@ -12,4 +12,4 @@ http://amr_portfolio.surge.sh/
 Project on Github : 
 https://github.com/3mrr2g2b/MyPortfolio
 
-<Img sec='https://i.imgur.com/A9UNFB4.png'/>
+<Img src='https://i.imgur.com/A9UNFB4.png'/>
